@@ -1,0 +1,18 @@
+<template>
+  <div class="title">
+    <h1>La mia prima app con Vue CLI!</h1>
+  </div>
+</template>
+
+<script>
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+  .title {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
